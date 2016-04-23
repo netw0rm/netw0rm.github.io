@@ -1,5 +1,8 @@
 #!/bin/sh
 
+cd ../
+rm -r about categories css fancybox font highlight img js post tags 关于
+cd src
 hugo
 mv public/* ../
 git add -A :/
