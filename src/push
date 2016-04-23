@@ -1,0 +1,9 @@
+#!/bin/sh
+
+hugo
+mv public/* ../
+git add -A :/
+git commit -m "write"
+git fetch origin
+git rebase origin/master
+git push origin master
