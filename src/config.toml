@@ -55,5 +55,5 @@ RSSUri = "feed.xml"
     Weight = 1
   [[Menu.Main]]
     Name = "关于"
-    URL = "/about"
+    URL = "/关于"
     Weight = 2
