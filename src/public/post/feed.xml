@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Shawn&#39;s Blog</title>
+    <link>http://netw0rm.github.io/post/</link>
+    <description>Recent content in Posts on Shawn&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 23 Apr 2016 23:15:00 +0800</lastBuildDate>
+    <atom:link href="http://netw0rm.github.io/post/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>博客搬家</title>
+      <link>http://netw0rm.github.io/post/%E5%8D%9A%E5%AE%A2%E6%90%AC%E5%AE%B6/</link>
+      <pubDate>Sat, 23 Apr 2016 23:15:00 +0800</pubDate>
+      
+      <guid>http://netw0rm.github.io/post/%E5%8D%9A%E5%AE%A2%E6%90%AC%E5%AE%B6/</guid>
+      <description>&lt;p&gt;博客已迁到hugo,挺好用的。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
