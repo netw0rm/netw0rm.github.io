@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 cd ../
 rm -r categories css fancybox font highlight img js post tags 关于
@@ -9,4 +9,7 @@ git add -A :/
 git commit -m "write"
 git fetch origin
 git rebase origin/master
-git push origin master
+
+if [ $1 = "on" ]; then
+  git push origin master
+fi
