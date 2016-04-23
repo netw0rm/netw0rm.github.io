@@ -10,6 +10,6 @@ git commit -m "write"
 git fetch origin
 git rebase origin/master
 
-if [ $1 = "on" ]; then
+if [ "$1" = "on" ]; then
   git push origin master
 fi
