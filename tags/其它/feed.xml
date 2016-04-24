@@ -6,8 +6,38 @@
     <description>Recent content in 其它 on Shawn&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 23 Apr 2016 23:15:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 24 Apr 2016 09:49:21 +0800</lastBuildDate>
     <atom:link href="http://netw0rm.github.io/tags/%E5%85%B6%E5%AE%83/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>测试</title>
+      <link>http://netw0rm.github.io/post/%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Sun, 24 Apr 2016 09:49:21 +0800</pubDate>
+      
+      <guid>http://netw0rm.github.io/post/%E6%B5%8B%E8%AF%95/</guid>
+      <description>
+
+&lt;h2 id=&#34;标题:ba48f1518e48075d04487c38f31e6d80&#34;&gt;标题&lt;/h2&gt;
+
+&lt;h3 id=&#34;段落:ba48f1518e48075d04487c38f31e6d80&#34;&gt;段落&lt;/h3&gt;
+
+&lt;p&gt;你好&lt;/p&gt;
+
+&lt;p&gt;hello
+good&lt;/p&gt;
+
+&lt;h3 id=&#34;code:ba48f1518e48075d04487c38f31e6d80&#34;&gt;code&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;codes
+ok&lt;/p&gt;
+
+&lt;p&gt;yes &lt;/br&gt; no&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;图片:ba48f1518e48075d04487c38f31e6d80&#34;&gt;图片&lt;/h3&gt;
+</description>
+    </item>
     
     <item>
       <title>博客搬家</title>
@@ -15,7 +45,7 @@
       <pubDate>Sat, 23 Apr 2016 23:15:00 +0800</pubDate>
       
       <guid>http://netw0rm.github.io/post/%E5%8D%9A%E5%AE%A2%E6%90%AC%E5%AE%B6/</guid>
-      <description>&lt;p&gt;博客已迁到hugo,挺好用的。&lt;/p&gt;
+      <description>&lt;p&gt;博客使用hugo,这是一个开始&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
