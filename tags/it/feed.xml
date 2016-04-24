@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shawn&#39;s Blog</title>
-    <link>http://netw0rm.github.io/</link>
-    <description>Recent content on Shawn&#39;s Blog</description>
+    <title>It on Shawn&#39;s Blog</title>
+    <link>http://netw0rm.github.io/tags/it/</link>
+    <description>Recent content in It on Shawn&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sun, 24 Apr 2016 09:29:12 +0800</lastBuildDate>
-    <atom:link href="http://netw0rm.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://netw0rm.github.io/tags/it/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>《黑客与画家》</title>
@@ -50,26 +50,6 @@
 &lt;p&gt;回顾历史，我们会发现很多这样的例子。人们因为说真话而给自己惹来麻烦。许多的言论，今天的人们看来再平常不过，但是放在过去都是不能说的。以此推断，未来的人们很可能会发现，他们觉得很平常的话，在我们今天这个时代都是不能说的。现在有没有伽利略这样的人和事？很可能是有的。&lt;/p&gt;
 
 &lt;p&gt;冷战、第二次世界大战、近代的大多数战争都说明了这个道理。要鼓励大家去创业。只要懂得藏富于民，国家就会变得强大。让书呆子保住他们的血汗钱，你就会无敌于天下。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>博客搬家</title>
-      <link>http://netw0rm.github.io/post/%E5%8D%9A%E5%AE%A2%E6%90%AC%E5%AE%B6/</link>
-      <pubDate>Sat, 23 Apr 2016 23:15:00 +0800</pubDate>
-      
-      <guid>http://netw0rm.github.io/post/%E5%8D%9A%E5%AE%A2%E6%90%AC%E5%AE%B6/</guid>
-      <description>&lt;p&gt;博客已迁到hugo,挺好用的。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>关于</title>
-      <link>http://netw0rm.github.io/%E5%85%B3%E4%BA%8E/</link>
-      <pubDate>Sat, 23 Apr 2016 22:34:51 +0800</pubDate>
-      
-      <guid>http://netw0rm.github.io/%E5%85%B3%E4%BA%8E/</guid>
-      <description>&lt;p&gt;这是我的博客。&lt;/p&gt;
 </description>
     </item>
     
