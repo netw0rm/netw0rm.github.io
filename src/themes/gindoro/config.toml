@@ -1,0 +1,11 @@
+BaseURL = "http://netw0rm.github.io/"
+LanguageCode = "zh-CN"
+HasCJKLanguage = true
+Title = "Shawn博客"
+Theme = "gindoro"
+
+[params]
+  Description = ""
+  Author = "shawn"
+  GithubUser = "netw0rm"
+  Email = "qiusct@gmail.com"
