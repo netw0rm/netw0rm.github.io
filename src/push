@@ -2,7 +2,7 @@
 
 shopt -s extglob
 cd ../
-rm -rv !(src)
+rm -r !(src)
 cd src
 hugo
 mv public/* ../
