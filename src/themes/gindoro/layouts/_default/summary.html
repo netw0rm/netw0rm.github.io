@@ -1,11 +1,11 @@
 <article class="post">
     <header class="post-summary-header">
       <p class="post-title"><a href="{{ .Permalink }}">{{ .Title }} {{ if .Draft }}:: DRAFT{{end}}</a></p>
-      <p class="post-meta">{{ .Date.Format "Jan 2 2006" }} - {{ .ReadingTime }} min </p>
+      <p class="post-meta">{{ .Date.Format "2006.1.2" }} - {{ .ReadingTime }} 分钟 </p>
     </header>
 
-    {{ .Summary }}
+    {{ .Summary }}...
     <footer>
-        <a href='{{ .Permalink }}'><nobr>more →</nobr></a>
+        <a href='{{ .Permalink }}'><nobr>进入 →</nobr></a>
     </footer>
 </article>
