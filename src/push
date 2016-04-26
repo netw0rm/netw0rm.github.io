@@ -1,7 +1,8 @@
 #!/bin/bash
 
+shopt -s extglob
 cd ../
-rm -r categories css fancybox font highlight img js post tags 关于
+rm -v !(src)
 cd src
 hugo
 mv public/* ../
