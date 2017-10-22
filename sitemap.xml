@@ -2,23 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://netw0rm.github.io/</loc>
-    <lastmod>2016-04-26T22:43:39+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://netw0rm.github.io/post/%E3%80%8A%E9%94%A1%E5%AE%89%E9%95%BF%E8%80%81%E4%BC%9A%E7%BA%AA%E8%A6%81%E3%80%8B/</loc>
-    <lastmod>2016-04-26T22:43:39+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://netw0rm.github.io/post/django%E7%BB%83%E4%B9%A0/</loc>
     <lastmod>2016-04-25T22:50:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://netw0rm.github.io/post/%E3%80%8A%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6%E3%80%8B/</loc>
+    <loc>http://netw0rm.github.io/post/%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6/</loc>
     <lastmod>2016-04-24T09:29:12+08:00</lastmod>
   </url>
   
@@ -28,13 +17,55 @@
   </url>
   
   <url>
-    <loc>http://netw0rm.github.io/post/%E5%8D%9A%E5%AE%A2%E6%90%AC%E5%AE%B6/</loc>
-    <lastmod>2016-04-23T23:15:00+08:00</lastmod>
+    <loc>http://netw0rm.github.io/%E5%85%B3%E4%BA%8E/</loc>
+    <lastmod>2016-04-23T22:34:51+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://netw0rm.github.io/%E5%85%B3%E4%BA%8E/</loc>
-    <lastmod>2016-04-23T22:34:51+08:00</lastmod>
+    <loc>http://netw0rm.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://netw0rm.github.io/tags/it/</loc>
+    <lastmod>2016-04-25T22:50:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://netw0rm.github.io/categories/it/</loc>
+    <lastmod>2016-04-25T22:50:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://netw0rm.github.io/post/</loc>
+    <lastmod>2016-04-25T22:50:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://netw0rm.github.io/</loc>
+    <lastmod>2016-04-25T22:50:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://netw0rm.github.io/tags/</loc>
+    <lastmod>2016-04-25T22:50:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://netw0rm.github.io/tags/%E5%85%B6%E5%AE%83/</loc>
+    <lastmod>2016-04-24T09:09:21+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://netw0rm.github.io/categories/%E5%85%B6%E5%AE%83/</loc>
+    <lastmod>2016-04-24T09:09:21+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
