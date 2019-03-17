@@ -7,7 +7,7 @@ cd src
 hugo
 mv public/* ../
 git add -A :/
-git commit -m `date '+%Y.%m.%d/%H:%M:%S'`
+git commit -m $(date '+%Y.%m.%d/%H:%M:%S')
 git fetch origin
 git rebase origin/master
 
