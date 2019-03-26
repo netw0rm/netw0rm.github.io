@@ -17,7 +17,7 @@
       <pubDate>Sun, 17 Mar 2019 21:30:00 +0800</pubDate>
       
       <guid>http://netw0rm.github.io/post/sicp4py/</guid>
-      <description>使用函数构建抽象 add() mul() max() min() map() + - * / 使用对象构建抽象 class 计算机程序的构造与解释 递归 迭代 分布式&amp;amp;并行计算 锁 存函数 序列和协程</description>
+      <description>使用函数构建抽象 add() mul() max() min() map() + - * / 使用对象构建抽象 class 计算机程序的构造与解释 递归 迭代 分布式&amp;amp;并行计算 锁 纯函数 序列和协程</description>
     </item>
     
     <item>
